@@ -1,0 +1,26 @@
+C:\Users\Kenan\Desktop\KananCodes\C# Projects\Fesil\Fesil\bin\Debug\netcoreapp3.1\Fesil.exe
+C:\Users\Kenan\Desktop\KananCodes\C# Projects\Fesil\Fesil\bin\Debug\netcoreapp3.1\Fesil.deps.json
+C:\Users\Kenan\Desktop\KananCodes\C# Projects\Fesil\Fesil\bin\Debug\netcoreapp3.1\Fesil.runtimeconfig.json
+C:\Users\Kenan\Desktop\KananCodes\C# Projects\Fesil\Fesil\bin\Debug\netcoreapp3.1\Fesil.runtimeconfig.dev.json
+C:\Users\Kenan\Desktop\KananCodes\C# Projects\Fesil\Fesil\bin\Debug\netcoreapp3.1\Fesil.dll
+C:\Users\Kenan\Desktop\KananCodes\C# Projects\Fesil\Fesil\bin\Debug\netcoreapp3.1\Fesil.pdb
+C:\Users\Kenan\Desktop\KananCodes\C# Projects\Fesil\Fesil\obj\Debug\netcoreapp3.1\Fesil.csprojAssemblyReference.cache
+C:\Users\Kenan\Desktop\KananCodes\C# Projects\Fesil\Fesil\obj\Debug\netcoreapp3.1\Fesil.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\Desktop\KananCodes\C# Projects\Fesil\Fesil\obj\Debug\netcoreapp3.1\Fesil.AssemblyInfoInputs.cache
+C:\Users\Kenan\Desktop\KananCodes\C# Projects\Fesil\Fesil\obj\Debug\netcoreapp3.1\Fesil.AssemblyInfo.cs
+C:\Users\Kenan\Desktop\KananCodes\C# Projects\Fesil\Fesil\obj\Debug\netcoreapp3.1\Fesil.dll
+C:\Users\Kenan\Desktop\KananCodes\C# Projects\Fesil\Fesil\obj\Debug\netcoreapp3.1\Fesil.pdb
+C:\Users\Kenan\Desktop\KananCodes\C# Projects\Fesil\Fesil\obj\Debug\netcoreapp3.1\Fesil.genruntimeconfig.cache
+C:\Users\Kenan\Desktop\28-04-2020-csharp-datatypes-functions-KananTapdigli\Fesil\Fesil\bin\Debug\netcoreapp3.1\Fesil.exe
+C:\Users\Kenan\Desktop\28-04-2020-csharp-datatypes-functions-KananTapdigli\Fesil\Fesil\bin\Debug\netcoreapp3.1\Fesil.deps.json
+C:\Users\Kenan\Desktop\28-04-2020-csharp-datatypes-functions-KananTapdigli\Fesil\Fesil\bin\Debug\netcoreapp3.1\Fesil.runtimeconfig.json
+C:\Users\Kenan\Desktop\28-04-2020-csharp-datatypes-functions-KananTapdigli\Fesil\Fesil\bin\Debug\netcoreapp3.1\Fesil.runtimeconfig.dev.json
+C:\Users\Kenan\Desktop\28-04-2020-csharp-datatypes-functions-KananTapdigli\Fesil\Fesil\bin\Debug\netcoreapp3.1\Fesil.dll
+C:\Users\Kenan\Desktop\28-04-2020-csharp-datatypes-functions-KananTapdigli\Fesil\Fesil\bin\Debug\netcoreapp3.1\Fesil.pdb
+C:\Users\Kenan\Desktop\28-04-2020-csharp-datatypes-functions-KananTapdigli\Fesil\Fesil\obj\Debug\netcoreapp3.1\Fesil.csprojAssemblyReference.cache
+C:\Users\Kenan\Desktop\28-04-2020-csharp-datatypes-functions-KananTapdigli\Fesil\Fesil\obj\Debug\netcoreapp3.1\Fesil.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\Desktop\28-04-2020-csharp-datatypes-functions-KananTapdigli\Fesil\Fesil\obj\Debug\netcoreapp3.1\Fesil.AssemblyInfoInputs.cache
+C:\Users\Kenan\Desktop\28-04-2020-csharp-datatypes-functions-KananTapdigli\Fesil\Fesil\obj\Debug\netcoreapp3.1\Fesil.AssemblyInfo.cs
+C:\Users\Kenan\Desktop\28-04-2020-csharp-datatypes-functions-KananTapdigli\Fesil\Fesil\obj\Debug\netcoreapp3.1\Fesil.dll
+C:\Users\Kenan\Desktop\28-04-2020-csharp-datatypes-functions-KananTapdigli\Fesil\Fesil\obj\Debug\netcoreapp3.1\Fesil.pdb
+C:\Users\Kenan\Desktop\28-04-2020-csharp-datatypes-functions-KananTapdigli\Fesil\Fesil\obj\Debug\netcoreapp3.1\Fesil.genruntimeconfig.cache

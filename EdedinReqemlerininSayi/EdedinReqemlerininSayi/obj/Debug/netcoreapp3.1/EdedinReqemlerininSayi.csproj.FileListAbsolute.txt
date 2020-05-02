@@ -1,0 +1,13 @@
+C:\Users\Kenan\Desktop\KananCodes\C# Projects\EdedinReqemlerininSayi\EdedinReqemlerininSayi\bin\Debug\netcoreapp3.1\EdedinReqemlerininSayi.exe
+C:\Users\Kenan\Desktop\KananCodes\C# Projects\EdedinReqemlerininSayi\EdedinReqemlerininSayi\bin\Debug\netcoreapp3.1\EdedinReqemlerininSayi.deps.json
+C:\Users\Kenan\Desktop\KananCodes\C# Projects\EdedinReqemlerininSayi\EdedinReqemlerininSayi\bin\Debug\netcoreapp3.1\EdedinReqemlerininSayi.runtimeconfig.json
+C:\Users\Kenan\Desktop\KananCodes\C# Projects\EdedinReqemlerininSayi\EdedinReqemlerininSayi\bin\Debug\netcoreapp3.1\EdedinReqemlerininSayi.runtimeconfig.dev.json
+C:\Users\Kenan\Desktop\KananCodes\C# Projects\EdedinReqemlerininSayi\EdedinReqemlerininSayi\bin\Debug\netcoreapp3.1\EdedinReqemlerininSayi.dll
+C:\Users\Kenan\Desktop\KananCodes\C# Projects\EdedinReqemlerininSayi\EdedinReqemlerininSayi\bin\Debug\netcoreapp3.1\EdedinReqemlerininSayi.pdb
+C:\Users\Kenan\Desktop\KananCodes\C# Projects\EdedinReqemlerininSayi\EdedinReqemlerininSayi\obj\Debug\netcoreapp3.1\EdedinReqemlerininSayi.csprojAssemblyReference.cache
+C:\Users\Kenan\Desktop\KananCodes\C# Projects\EdedinReqemlerininSayi\EdedinReqemlerininSayi\obj\Debug\netcoreapp3.1\EdedinReqemlerininSayi.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\Desktop\KananCodes\C# Projects\EdedinReqemlerininSayi\EdedinReqemlerininSayi\obj\Debug\netcoreapp3.1\EdedinReqemlerininSayi.AssemblyInfoInputs.cache
+C:\Users\Kenan\Desktop\KananCodes\C# Projects\EdedinReqemlerininSayi\EdedinReqemlerininSayi\obj\Debug\netcoreapp3.1\EdedinReqemlerininSayi.AssemblyInfo.cs
+C:\Users\Kenan\Desktop\KananCodes\C# Projects\EdedinReqemlerininSayi\EdedinReqemlerininSayi\obj\Debug\netcoreapp3.1\EdedinReqemlerininSayi.dll
+C:\Users\Kenan\Desktop\KananCodes\C# Projects\EdedinReqemlerininSayi\EdedinReqemlerininSayi\obj\Debug\netcoreapp3.1\EdedinReqemlerininSayi.pdb
+C:\Users\Kenan\Desktop\KananCodes\C# Projects\EdedinReqemlerininSayi\EdedinReqemlerininSayi\obj\Debug\netcoreapp3.1\EdedinReqemlerininSayi.genruntimeconfig.cache

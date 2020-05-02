@@ -1,0 +1,13 @@
+C:\Users\Kenan\Desktop\C# Projects\Sade_Murekkeb\Sade_Murekkeb\bin\Debug\netcoreapp3.1\Sade_Murekkeb.exe
+C:\Users\Kenan\Desktop\C# Projects\Sade_Murekkeb\Sade_Murekkeb\bin\Debug\netcoreapp3.1\Sade_Murekkeb.deps.json
+C:\Users\Kenan\Desktop\C# Projects\Sade_Murekkeb\Sade_Murekkeb\bin\Debug\netcoreapp3.1\Sade_Murekkeb.runtimeconfig.json
+C:\Users\Kenan\Desktop\C# Projects\Sade_Murekkeb\Sade_Murekkeb\bin\Debug\netcoreapp3.1\Sade_Murekkeb.runtimeconfig.dev.json
+C:\Users\Kenan\Desktop\C# Projects\Sade_Murekkeb\Sade_Murekkeb\bin\Debug\netcoreapp3.1\Sade_Murekkeb.dll
+C:\Users\Kenan\Desktop\C# Projects\Sade_Murekkeb\Sade_Murekkeb\bin\Debug\netcoreapp3.1\Sade_Murekkeb.pdb
+C:\Users\Kenan\Desktop\C# Projects\Sade_Murekkeb\Sade_Murekkeb\obj\Debug\netcoreapp3.1\Sade_Murekkeb.csprojAssemblyReference.cache
+C:\Users\Kenan\Desktop\C# Projects\Sade_Murekkeb\Sade_Murekkeb\obj\Debug\netcoreapp3.1\Sade_Murekkeb.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\Desktop\C# Projects\Sade_Murekkeb\Sade_Murekkeb\obj\Debug\netcoreapp3.1\Sade_Murekkeb.AssemblyInfoInputs.cache
+C:\Users\Kenan\Desktop\C# Projects\Sade_Murekkeb\Sade_Murekkeb\obj\Debug\netcoreapp3.1\Sade_Murekkeb.AssemblyInfo.cs
+C:\Users\Kenan\Desktop\C# Projects\Sade_Murekkeb\Sade_Murekkeb\obj\Debug\netcoreapp3.1\Sade_Murekkeb.dll
+C:\Users\Kenan\Desktop\C# Projects\Sade_Murekkeb\Sade_Murekkeb\obj\Debug\netcoreapp3.1\Sade_Murekkeb.pdb
+C:\Users\Kenan\Desktop\C# Projects\Sade_Murekkeb\Sade_Murekkeb\obj\Debug\netcoreapp3.1\Sade_Murekkeb.genruntimeconfig.cache
